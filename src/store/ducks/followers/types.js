@@ -1,0 +1,9 @@
+export const FOLLOWER_REQUEST = "follwer/FOLLOWER_REQUEST";
+export const FOLLOWER_SUCCESS = "follwer/FOLLOWER_SUCCESS";
+export const FOLLOWER_FAILURE = "follwer/FOLLOWER_FAILURE";
+
+export default {
+  FOLLOWER_REQUEST,
+  FOLLOWER_SUCCESS,
+  FOLLOWER_FAILURE
+};
